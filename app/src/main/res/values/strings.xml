@@ -1,0 +1,116 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GET</string>
+
+    <string name="title_switch_mario">Super Smash Bros Ultimate</string>
+    <string name="desc_switch_mario">Do desenvolvedor(a) Nintendo, esse jogo possui classificação etária para Maiores de 10 Anos e pode ser jogado por 4 jogadores online, 4 offline e 4 cooperativo, saiba mais sobre este incrível jogo e veja sua incrível história: Uma das franquias mais populares da Nintendo está de volta, o Super Smash Bros. agora está no Nintendo Switch! O jogo coloca vários personagens da Nintendo bara brigar entre si em cenários temáticos, oferecendo diversão tanto para jogadores hardcore quanto para os mais casuais. Pela primeira vez na franquia, o jogo irá incluir todos os personagens já lançados nos jogos anteriores da série.</string>
+    <string name="extra_switch_mario">Procurando um jogo de Luta que tal esse Jogo Super Smash Bros Ultimate Nintendo Switch</string>
+    <string name="title_switch_pokemon">Pokémon Shield</string>
+    <string name="desc_switch_pokemon">Uma nova geração de Pokémon está chegando ao sistema Nintendo Switch. Torne-se um Pokémon Trainer e embarque em uma nova jornada na nova região de Galar! Escolha um dos três novos parceiros Pokémon: Grookey, Scorbunny ou Sobble. Nesta nova aventura, você encontrará Pokémon novos e familiares enquanto captura, batalha e troca Pokémon enquanto explora novas áreas e descobre uma história totalmente nova. Prepare-se para a próxima aventura Pokémon nos jogos Pokémon Sword e Pokémon Shield.</string>
+    <string name="extra_switch_pokemon">Pokémon Shield é um jogo de RPG da série Pokémon, desenvolvido pela Game Freak, publicado pela The Pokémon Company, e distribuídos pela Nintendo. </string>
+    <string name="title_switch_dk">Donkey Kong Country Tropical Freeze</string>
+    <string name="desc_switch_dk">Esse jogo possui classificação etária para Maiores de 12 Anos e pode ser jogado por 0 jogadores online, 1 offline e 0 cooperativo, saiba mais sobre este incrível jogo e veja sua incrível história: jogo Donkey Kong Country Tropical Freeze para Nintendo Switch, uma aventura ainda mais empolgante e congelante. Tropical Freeze traz cenários congelados por causa de um fenômeno misterioso que caiu sobre as terras que eram quentes e paradisíacas. Agora cabe a você ajudar Donkey Kong e seus amigos a recuperar seu lar das mãos dos terríveis Vikings.</string>
+    <string name="extra_switch_dk">Procurando um jogo de Aventura que tal esse Jogo Donkey Kong Country Tropical Freeze Nintendo Switch do desenvolvedor Nintendo.</string>
+    <string name="title_switch_megaman">Mega Man Legacy Collection</string>
+    <string name="desc_switch_megaman" tools:ignore="Typos">Esse jogo possui classificação etária para Maiores de 10 Anos e pode ser jogado por 0 jogadores online, 1 offline e 0 cooperativo, saiba mais sobre este incrível jogo e veja sua incrível história: jogo Mega Man Legacy Collection + Mega Man Legacy Collection 2 para Nintendo Switch, o robo azul mais conhecido no mundo gamer, chega com uma nova coleção, sem perder o charme do classico. Essa edição traz uma reprodução fiel dos jogos originais da série, sendo seis jogos do Mega Man, com uma evolução e conteúdos adicionais, novos desafios com placar online, entre outras inovações.</string>
+    <string name="extra_switch_megaman">Procurando um jogo de Aventura que tal esse Jogo Mega Man Legacy Collection + Mega Man Legacy Collection 2 Nintendo Switch do desenvolvedor Capcom.</string>
+    <string name="title_switch_crash">Crash Bandicoot N. Sane Trilogy</string>
+    <string name="desc_switch_crash">Esse jogo possui classificação etária para Maiores de 10 Anos e pode ser jogado por 0 jogadores online, 1 offline e 0 cooperativo, saiba mais sobre este incrível jogo e veja sua incrível história: jogo Crash Bandicoot N. Sane Trilogy para Nintendo Switch, o melhor mascote da infancia está de volta! Viva essa aventura incrível, desvie das caixas de bombas e pegue todas as frutas possíveis, não esqueça de guardar sua sorte para enfrentar o chefão. O jogo está muito mais bonito e bem feito, com a qualidade que já conhecemos.</string>
+    <string name="extra_switch_crash">Procurando um jogo de Aventura que tal esse Jogo Crash Bandicoot N. Sane Trilogy Nintendo Switch do desenvolvedor Activision.</string>
+
+    <string name="title_ps4_lastOfUs">The Last of Us Part II</string>
+    <string name="desc_ps4_lastOfUs">Quando um evento violento interrompe a paz, Ellie embarca em uma jornada implacável para fazer justiça e encontrar uma solução. Embarque na jornada de Ellie, levando-a das montanhas e florestas tranquilas de Jackson até as ruínas exuberantes e cobertas pela vegetação da área metropolitana de Seattle.</string>
+    <string name="extra_ps4_lastOfUs">Cinco anos depois da jornada perigosa pelos Estados Unidos pós-pandêmicos, Ellie e Joel se estabelecem em Jackson, Wyoming.</string>
+    <string name="title_ps4_daysGone">Days Gone</string>
+    <string name="desc_ps4_daysGone">Simulação De Combate Brutal. Inimigos Exclusivos. Ambiente Único</string>
+    <string name="extra_ps4_daysGone">Um Mundo Aberto Inóspito</string>
+    <string name="title_ps4_redDead">Red Dead Redemption 2</string>
+    <string name="desc_ps4_redDead">Com agentes federais e os melhores caçadores de recompensas no seu encalço, a gangue precisa roubar, assaltar e lutar para sobreviver no impiedoso coração dos estados unidos. Dos criadores de grand theft auto v e red dead redemption, red dead redemption 2 é uma história épica sobre a vida nos estados unidos no alvorecer dos tempos modernos</string>
+    <string name="extra_ps4_redDead">Os que não se rendem, nem sucumbem, são mortos</string>
+    <string name="title_ps4_fifa21">FIFA 21</string>
+    <string name="desc_ps4_fifa21">Personalidade de Posicionamento: No FIFA 21, a Personalidade de Posicionamento aumenta a inteligência dos jogadores, de modo a se equiparar à sua concepção real de espaço e tempo. Movimentação Criativa: Novas opções para influenciar a movimentação da bola do seu time revolucionam a criação ofensiva no FIFA 21, dando mais opções de se superar uma defesa.</string>
+    <string name="extra_ps4_fifa21">Dribles Rápidos: No FIFA 21, o novo sistema de Dribles Rápidos coloca mais ferramentas à sua disposição quando você se vê diante da marcação.</string>
+    <string name="title_ps4_watchDogs">Watch Dogs Legion</string>
+    <string name="desc_ps4_watchDogs">Recrute qualquer pessoa entre toda a população de Londres para a sua resistência: desde um agente da MI6 a um lutador de rua, desde um hacker genial a um piloto de fugas, desde um torcedor hooligan a uma senhora idosa acima de qualquer suspeita: todos têm histórias, personalidades e habilidades diferentes que podem ser usadas em diferentes situações. Qualquer pessoa que você veja pode se juntar à sua equipe.</string>
+    <string name="extra_ps4_watchDogs">JOGUE COMO QUALQUER PESSOA</string>
+
+    <string name="title_ps5_demonSouls">Demon\'s Souls</string>
+    <string name="desc_ps5_demonSouls">Inteiramente refeito do zero e aprimorado com maestria, esse remake introduz o horror de uma terra obscura, fantasiosa e carregada de névoa para uma nova geração de jogadores. Aqueles que já enfrentaram os seus desafios e aflições anteriormente, podem mais uma vez enfrentar a escuridão com um visual deslumbrante e performance incrível. Em sua missão por poder, o Décimo Segundo Rei de Boletaria, King Allant canalizou as antigas Soul Arts, acordando um demônio pré-histórico, The Old One.</string>
+    <string name="extra_ps5_demonSouls">Da Bluepoint Games, chega o remake de um clássico da PlayStation, Demon’s Souls™.</string>
+    <string name="title_ps5_spiderMan">Spider Man Miles Morales</string>
+    <string name="desc_ps5_spiderMan">Em sua mais nova aventura no universo de Marvel Spider-man, o adolecente Miles Morales está se ajustando a sua nova casa, enquanto segue os passos de seu mentor, Peter Parker, como o novo Homem-aranha.Mas quando uma luta feroz pelo poder ameaça destruir sua nova casa, o aspirante a herói percebe que com grandes poderes, também deve vir uma grande responsabilidade.Para salvar toda a Nova Iorque da Marvel, Miles deve assumir o manto do Homem-Aranha e torná-lo seu.</string>
+    <string name="extra_ps5_spiderMan">Acompanhe a trajetória de Miles Morales enquanto ele aprende a dominar poderes incríveis e explosivos para se tornar o novo Spider-Man.</string>
+    <string name="title_ps5_acValhala">Assassin\'s Creed Valhalla</string>
+    <string name="desc_ps5_acValhala">Em Assassin’s Creed Valhalla, você é Eivor, um guerreiro viking temível que cresceu em meio a histórias de batalhas e glória. Explore um belo e dinâmico mundo aberto que tem como cenário a Idade das Trevas da Inglaterra. Ataque seus inimigos, amplie seu assentamento e consolide seu poder político na busca para ganhar um lugar entre os deuses de Valhalla.</string>
+    <string name="extra_ps5_acValhala">A Ed. Limitada inclui: MISSÃO BÔNUS: A TRAJETÓRIA DO BÁRBARO </string>
+    <string name="title_ps5_sackboy">Sackboy Uma Grande Aventura</string>
+    <string name="desc_ps5_sackboy">Encare desafios imprevisíveis e emocionantes enquanto você explora mundos distintos e feitos a mão através de controles profundamente imersivos e expressivos. • UMA EXPERIÊNCIA EM PLATAFORMA. Explore aqui, ali e todo lugar enquanto utiliza diversos e incríveis movimentos de Sackboy para encarar uma enorme variedade de desafios emocionantes, ferozes inimigos e grandes surpresas. • PREENCHIDO, FECHADO E COSTURADO NOVAMENTE. Sackboy retorna cheio de novos movimentos e ferramentas decisivas em uma aventura inspiradora e completamente em 3D em um novo (porém familiar) mundo.</string>
+    <string name="extra_ps5_sackboy">Acompanhe Sackboy em uma épica aventura de plataforma 3D com seus amigos.</string>
+    <string name="title_ps5_destruction">Destructions Allstar</string>
+    <string name="desc_ps5_destruction">Domine o fantástico fenômeno global Destruction AllStars – o espetacular esporte de entretenimento para motoristas perigosos! Domine a arte do combate intenso com veículos através do tempo, táticas e habilidades para causar uma quantidade colossal de danos, destruição e devastação em arenas vibrantes em todo o mundo.</string>
+    <string name="extra_ps5_destruction">Acumule destruição atrás do volante ou a pé, cause a destruição no fenômeno mundial Destruction AllStars.</string>
+
+    <string name="title_xboxOne_cyberphunk">Cyberpunk 2077</string>
+    <string name="desc_xboxOne_cyberphunk">Você controla V, um mercenário fora da lei em busca de um implante sem igual, que carrega o segredo da imortalidade. É possível personalizar os equipamentos cibernéticos, conjuntos de habilidades e estilo de jogo para explorar essa grande cidade onde as suas decisões definem a história e o mundo à sua volta.</string>
+    <string name="extra_xboxOne_cyberphunk">Cyberpunk 2077 é uma história de ação e aventura em mundo aberto que se passa em Night City, uma megalópole obcecada pelo poder, glamour e modificações biológicas.</string>
+    <string name="title_xboxOne_pes21">EFootball PES 2021</string>
+    <string name="desc_xboxOne_pes21">Funcionalidades do Jogo: • Atualização da Temporada: eFootaball PES 2021 é uma versão atualizada do título anterior, e traz as últimas novidades dos jogadores e clubes.• Conteúdo Exclusivo UEFA EURO 2020: À frente do torneio da vida real o conteúdo oficial da UEFA EURO 2020 será incluído no lançamento do eFootball PES 2021, trazendo no modo offline todos os 55 times nacionais da UEFA, e seus estádios . • Série momentos Icônicos: Reviva e recrie momentos memoráveis da carreira de astros do futebol do presente e do passado com esta nova série do MyClub.</string>
+    <string name="extra_xboxOne_pes21">Além do já famoso gameplay da franquia, eFootaball PES 2021 conta com todas as atualizações de jogadores e clubes da nova temporada.</string>
+    <string name="title_xboxOne_marvel">Marvel Avengers</string>
+    <string name="desc_xboxOne_marvel">Depois que o desastre do Dia-A destruiu São Francisco e criou uma população de Inumanos, os Avengers se separaram. Na ausência deles, a Avançadas Ideias Mecânicas (AIM) jura proteger as pessoas, mas não é bem assim. Comece como Kamala Khan, adolescente fã dos Avengers que foge da AIM depois de descobrir um segredo terrível em seus servidores. Ao reunir os Avengers, você jogará como cada membro para aprender em detalhes como funcionam. </string>
+    <string name="extra_xboxOne_marvel">Embarque em uma jornada como cada um dos Avengers através e além da Terra para reacender a confiança deles em si mesmos antes que não haja mais nada para salvar.</string>
+    <string name="title_xboxOne_gta5">GTA 5</string>
+    <string name="desc_xboxOne_gta5" tools:ignore="Typos">Enquanto eles arriscam tudo em uma série de assaltos ousados que podem garantir o resto de suas vidas. Explore o deslumbrante mundo de Los Santos e Blaine County na experiência definitiva de Grand Theft Auto V, apresentando amplas atualizações e melhorias técnicas tanto para jogadores novos quanto para os que estão retornando. Além de distâncias maiores de renderização e melhor resolução, os jogadores podem esperar diversas adições e melhorias.</string>
+    <string name="extra_xboxOne_gta5">Entre nas vidas de três criminosos muito diferentes, Michael, Franklin e Trevor.</string>
+    <string name="title_xboxOne_witcher">The Witcher 3</string>
+    <string name="desc_xboxOne_witcher">Em seu lançamento, The Witcher 3: complete edition logo se tornou um clássico, recebendo mais de 250 prêmios de Jogo do Ano. Agora você pode aproveitar essa gigantesca aventura de mundo aberto, com mais de 100 horas, juntamente com suas duas expansões narrativas que garantem mais 50 horas de jogo. Essa edição inclui todos os conteúdos adicionais – novas armas, armaduras, trajes de companheiros, novo modo de jogo e missões secundárias.</string>
+    <string name="extra_xboxOne_witcher">Torne-se um caçador de monstros profissional e embarque em uma aventura de proporções épicas! </string>
+
+    <string name="title_xboxX_mortalKombat">Mortal Kombat 11</string>
+    <string name="desc_xboxX_mortalKombat">Assuma o controle dos protetores do plano terreno nas DUAS campanhas de história aclamadas pela crítica do jogo e que dobram o tempo, enquanto corre para impedir que Kronika retroceda o tempo e reinicie a história. Amizades são testadas e novas alianças formadas são formadas na batalha para salvar toda a existência. MK11 Ultimate apresenta a lista Kopleta de 37 personagens, incluindo as novas adições Rain, Mileena e Rambo. Mortal Kombat 11 mostra cada amizade divertida, fatalidade sangrenta e golpe fatal de esmagar a alma como nunca antes. Você estará tão perto da luta que poderá sentir! Inclui Mortal Kombat 11, Pacote de Kombate 1, Expansão Aftermath e Pacote de Kombate 2.</string>
+    <string name="extra_xboxX_mortalKombat">A experiência MK11 definitiva!</string>
+    <string name="title_xboxX_callDuty">CoD: Black Ops Cold War</string>
+    <string name="desc_xboxX_callDuty">Como agentes Elite, você seguirá a trilha de uma figura sombria chamada Perseus, que está em uma missão de desestabilizar o equilíbrio global de poder e mudar o curso da história.</string>
+    <string name="extra_xboxX_callDuty">Como agentes Elite, você seguirá a trilha de uma figura sombria chamada Perseus, que está em uma missão de desestabilizar o equilíbrio global de poder e mudar o curso da história.</string>
+    <string name="title_xboxX_trainSim">Train Sim World 2</string>
+    <string name="desc_xboxX_trainSim">ROTAS AUTÊNTICAS - Sinta a adrenalina da linha férrea de Köln-Aachen, do transporte cargas do Sand Patch Grade e domine a Bakerloo Line. A Collector’s Edition também inclui as rotas da Preserved Collection: East Coastway, Peninsula Corridor e Hauptstrecke Rhein-Ruhr. FERRAMENTAS CRIATIVAS - Personalize a sua aventura com novas ferramentas. Crie visuais com o Livery Designer (Designer de Visuais) e escolha o que conduzir com o Scenario Planner (Planejador de Cenários).</string>
+    <string name="extra_xboxX_trainSim">A evolução das simulações ferroviárias! Domine locomotivas emblemáticas e divirta-se com as novas ferramentas da sequência avançada.</string>
+    <string name="title_xboxX_farCry">Far cry 6</string>
+    <string name="desc_xboxX_farCry">Reserve agora mesmo e receba a arma Discos Locos e um traje para Chorizo.</string>
+    <string name="extra_xboxX_farCry">Participe de uma guerrilha revolucionária atual e liberte um país. </string>
+    <string name="title_xboxX_halo">Halo infinite</string>
+    <string name="desc_xboxX_halo">Quando toda a esperança foi perdida e o destino da humanidade está em risco, o Master Chief está pronto para encarar o inimigo mais cruel que já enfrentou. Comece de novo e vista a armadura do maior herói da humanidade para vivenciar uma aventura épica e, finalmente, conhecer a magnitude do anel de Halo em si.</string>
+    <string name="extra_xboxX_halo">A lendária série Halo retorna com a história mais abrangente do Master Chief até hoje.</string>
+
+    <string name="entrega">Nossa entrega é rápida feita via correio, embalamos nossos produtos usando envelope de carta comum.</string>
+    <string name="nossa_entrega">Nossa entrega</string>
+    <string name="ic_baseline_local_shipping">ic_baseline_local_shipping</string>
+    <string name="nintendo_switch">Nintendo Switch</string>
+    <string name="playstation_4">Playstation 4</string>
+    <string name="playstation_5">Playstation 5</string>
+    <string name="xbox_one">Xbox One</string>
+    <string name="xbox_x">Xbox X</string>
+    <string name="inscreva_se">Inscreva-se</string>
+    <string name="compra_com_um_clique">Compra com um clique</string>
+    <string name="preco">R$ 145,90</string>
+    <string name="imagem">Imagem</string>
+    <string name="estrela">estrela</string>
+    <string name="rs_14_90">R$ 14,90</string>
+    <string name="imagem_app">imagem_app</string>
+    <string name="procure_o_produto">Procure o produto</string>
+    <string name="pesquise_no_app">Pesquise no nosso app o produto desejado</string>
+    <string name="imagem_cartao">imagem_cartao</string>
+    <string name="faca_pagamento">Faça o pagamento</string>
+    <string name="texto_pagamento">Após selecionar o produto faça o pagamento de forma simples e rápida e já deixe as informações prontas para a próxima compra</string>
+    <string name="imagem_carta">imagem_carta</string>
+    <string name="receba_em_casa">Receba em casa</string>
+    <string name="receba_produto_casa">Receba o produto em casa com uma entrega rápida e embalado em um envelope como uma carta, assim você terá sua privacidade.</string>
+    <string name="imagem_card">imagem_card</string>
+    <string name="titulo">Titulo</string>
+    <string name="extra">Extra</string>
+    <string name="imagem_estrela">imagem_estrela</string>
+    <string name="textview">TextView</string>
+    <string name="comprar">Comprar</string>
+    <string name="imagem_activity_entrega">imagem_activity_entrega</string>
+    <string name="icone">icone</string>
+
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:layout_marginTop="5dp"
+    android:elevation="4dp"
+    android:layout_marginBottom="5dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:targetApi="lollipop">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="150dp"
+        android:layout_height="230dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/textoTitulo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
+        app:srcCompat="@drawable/ps5_1_demons_souls"
+        android:contentDescription="@string/imagem_card" />
+
+    <TextView
+        android:id="@+id/textoTitulo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo"
+        android:textAllCaps="false"
+        android:textColor="#939598"
+        android:textSize="18sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintRight_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image" />
+
+    <TextView
+        android:id="@+id/textoExtra_adapter_produto"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/extra"
+        android:textAllCaps="false"
+        android:textColor="#939598"
+        android:textSize="16sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textoTitulo" />
+
+    <ImageView
+        android:id="@+id/star"
+        android:layout_width="90dp"
+        android:layout_height="25dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textoPreco"
+        app:layout_constraintTop_toTopOf="@+id/textoPreco"
+        app:srcCompat="@drawable/star_icon"
+        android:contentDescription="@string/imagem_estrela" />
+
+    <TextView
+        android:id="@+id/textoPreco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/preco"
+        android:textAllCaps="false"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:textColor="#939598"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textoExtra_adapter_produto" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
